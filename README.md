@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nathansonic
-- 👀 I’m interested in making things
-- 🌱 I’m currently learning generative art
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: here on github
+
+- 👀 interested in making things
+- 🌱 currently learning generative art
+- 📫 reach me here on github
